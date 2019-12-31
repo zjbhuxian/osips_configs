@@ -1,2 +1,3 @@
-# osips_configs
-Just some configs used in xxxxx
+# osips_configs which using redis to cache sip information
+
+### Usage 

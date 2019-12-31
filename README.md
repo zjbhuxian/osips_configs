@@ -1,2 +1,2 @@
-# osips_configs which is used on cn2(BQJ)
+# osips_configs: stateless proxy
 Just some configs used in xxxxx
